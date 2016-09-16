@@ -10,3 +10,5 @@ for(i = 0; i < testArray.length; i++) {
   }
 }
 }
+
+console.log (splinter(1,2));
